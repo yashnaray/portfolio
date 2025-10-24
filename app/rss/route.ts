@@ -1,7 +1,7 @@
 import { baseUrl } from 'app/sitemap'
 
 export async function GET() {
-  const itemsXml = '' // No blog posts available
+  const itemsXml = ''
 
   const rssFeed = `<?xml version="1.0" encoding="UTF-8" ?>
   <rss version="2.0">

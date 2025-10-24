@@ -5,7 +5,7 @@ export default function ProjectsPage() {
       description: "A real-time market risk analyzer using TensorFlow and Python to model portfolio volatility and hedging strategies. Implemented backtesting for alpha, beta, and Sharpe ratio, and automated data pipelines for continuous performance evaluation.",
       tech: ["Python","TensorFlow","Pandas","NumPy"," Engineering","Quantitative Modeling","Financial Analytics"],
       link: "#",
-      github: "https://github.com/YashNarayan-thefirst/VQ-VAE-HMM-model"
+      github: "https://github.com/yashnaray/VQ-VAE-HMM-model"
     },
     {
       title: "maxiMiZe: Chromatography Data Platform",
@@ -19,21 +19,21 @@ export default function ProjectsPage() {
       description: "Developed a Rust + Next.js + MySQL analytics system aggregating real-time sales and marketing data. Built automated pipelines to replace manual reporting and collaborated with stakeholders to align technical goals with business needs.",
       tech: ["Rust","Next.js","Tailwind CSS","MySQL","Full-Stack Development","Data Automation","Agile Development"],
       link: "#",
-      github: "https://github.com/YashNarayan-thefirst/Triple-Atom"
+      github: "https://github.com/yashnaray/Triple-Atom"
     },
     {
       title: "Stock Price Predictor",
       description: "Built a TensorFlow-based forecasting tool for financial time-series data. Engineered features for improved model accuracy and created interactive dashboards to visualize stock trends and simulate investment outcomes.",
       tech: ["TensorFlow","Python","MarketStack API","Data Visualization","Machine Learning","Time-Series Forecasting"],
       link: "#",
-      github: "https://github.com/YashNarayan-thefirst/COP3530-Project-3"
+      github: "https://github.com/yashnaray/COP3530-Project-3"
     },
     {
       title: "LORA PCB Tester",
       description: "Led a hackathon team to design a validation system for LORA Radio PCBs used in train safety. Integrated LLM-based schematic analysis with automated report generation in multiple formats and database storage for test results.",
       tech: ["Python","LLM Integration","Pinecone DB","Systems Design","Automation","Hardware Validation"],
       link: "#",
-      github: "https://github.com/YashNarayan-thefirst/COP3530-Project-3"
+      github: "https://github.com/yashnaray/COP3530-Project-3"
     }
   ]
 
@@ -95,7 +95,7 @@ export default function ProjectsPage() {
           More of my work:
         </p>
         <a 
-          href="https://github.com/YashNarayan-thefirst" 
+          href="https://github.com/yashnaray" 
           className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-[#B77466] to-[#957C62] text-[#FFE1AF] rounded-lg hover:shadow-lg transition-all duration-300 font-medium"
         >
           Visit My GitHub
