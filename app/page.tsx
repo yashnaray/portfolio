@@ -1,5 +1,6 @@
 import Link from 'next/link'
 
+// Updated to force clean build
 export default function Page() {
   return (
     <div className="max-w-2xl mx-auto space-y-24 py-16">
