@@ -15,11 +15,13 @@ export default function Page() {
 
       {/* About Section */}
       <section className="grid grid-cols-2 gap-12 items-center">
-        <img 
-          src="/profile.jpg" 
-          alt="Yash Narayan" 
-          className="w-full h-64 object-cover rounded-lg"
-        />
+        <div className="w-full h-64 bg-orange-200/30 rounded-lg overflow-hidden">
+          <img 
+            src="/profile.png" 
+            alt="Yash Narayan" 
+            className="w-full h-full object-cover"
+          />
+        </div>
         <div className="space-y-6">
           <h2 className="text-2xl font-light text-orange-700">About</h2>
           <div className="space-y-4 text-orange-600 leading-relaxed">

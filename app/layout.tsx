@@ -42,6 +42,7 @@ export default function RootLayout({
     <html
       lang="en"
       className="text-neutral-800"
+      suppressHydrationWarning={true}
     >
       <body className="antialiased">
         <div className="max-w-4xl mx-4 mt-8 lg:mx-auto">
